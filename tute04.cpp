@@ -46,5 +46,6 @@ long nCr(int n, int r)
   nCr=Factorial(n)/(Factorial(r)*Factorial(n-r));
   
   return 0;
+
   
   }  
