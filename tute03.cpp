@@ -16,7 +16,7 @@ int main()
     fac = 1;
     for (int r=no; r >= 1; r--) 
     {
-        fac = fac*r;
+        fac = fac * r;
     }
 
     std::cout<<"Factorial of"<<no<<"is"<<fac<<std::endl;  
