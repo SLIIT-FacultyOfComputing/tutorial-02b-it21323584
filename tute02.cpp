@@ -16,7 +16,7 @@ Please Note that the input command in C++ is std::cin. This is a representation 
 int main()
 {
    double salary, netSalary;
-   int etype, otHrs, otRate;
+   int etype,otHrs,otRate;
    std::cout<<"Enter Employee Type : ";
    std::cin>>etype;
    std::cout<<"Enter Salary  : ";
