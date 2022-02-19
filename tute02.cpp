@@ -41,4 +41,5 @@ int main()
    std::cout<<"Net Salary is  "<< netSalary;
   
    return 0;
+  
 }
