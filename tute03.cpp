@@ -21,4 +21,5 @@ int main()
 
     std::cout<<"Factorial of"<<no<<"is"<<fac<<std::endl;  
     return 0;
+  
 }
